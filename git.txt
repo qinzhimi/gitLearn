@@ -7,3 +7,8 @@ mybranch A3
 
 
 mybranch a1
+mybranch b1
+
+
+mybranch a2
+mybranch b2
